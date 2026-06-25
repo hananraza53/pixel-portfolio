@@ -16,7 +16,7 @@ export function Footer() {
       <div className="mx-auto px-4 sm:px-6 lg:px-10 max-w-6xl">
         <div className="grid md:grid-cols-3 gap-8 mb-8">
           <div data-testid="footer-about">
-            <h3 className="font-pixel text-xl mb-4">ALEX DEVSON</h3>
+            <h3 className="font-pixel text-xl mb-4">Hanan Raza</h3>
             <p className="text-sm text-gray-300">
               Full-stack developer crafting pixel-perfect experiences. Always ready for the next challenge.
             </p>
@@ -74,7 +74,7 @@ export function Footer() {
         </div>
         <div className="border-t-[3px] border-white/20 pt-8 text-center">
           <p className="font-press-start text-xs text-gray-300" data-testid="footer-copyright">
-            © 2025 ALEX DEVSON. BUILT WITH <Heart className="inline w-3 h-3 text-heart-red fill-heart-red" /> & REACT
+            © 2026 Hanan Raza. BUILT WITH <Heart className="inline w-3 h-3 text-heart-red fill-heart-red" /> & REACT
           </p>
         </div>
       </div>
